@@ -157,7 +157,7 @@
       - owasp top 10
     - Cloud Computing
       - aws ecosystem
-      - open source alternatives (nginx/HAProxy et all)
+      - open source alternatives (nginx/HAProxy/etcd et all)
       - terraform
       - docker
       - kubernetes
@@ -210,4 +210,3 @@
     - ruby -> simple, neat language. may need to look up points/in-build methods and neater tricks from time to time.
     - clojure -> functional in nature. haven't written frequently in and lack of depth may divert attention from real intent.
     - typescript -> javascript. say. no. more.
-

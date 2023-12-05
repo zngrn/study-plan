@@ -2,11 +2,28 @@
 
 ## Core Language Syllabus:
   - data types
+  - pointers
   - conditionals
   - functions
   - structure/interface
   - concurrency
+  - std lib
+    - container
+    - string
+    - time
+    - env variables
+    - testing
+    - errors
+    - sort
+    - slices
+    - regexp
+    - os
+    - path
+    - net
+    - io
+    - cmp
   - miscelleneous topics
+    - regex
 
 ## Additional Language Syllabus:
   - cli
@@ -25,4 +42,3 @@
   - design a program to play battleship
   - design a backend app to show json response for currency conversion
   - design a backend app to handle note taking
-
