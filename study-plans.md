@@ -29,10 +29,12 @@
     - [yt] [Back to Back SWE](https://www.youtube.com/c/BackToBackSWE)
     - [book] The Algorithm Design Manual - Steven Skienna
     - [online] [BaseCS Blog](https://medium.com/basecs)
+    - [online] [github - Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
   - System Design:
     - [yt] [Gaurav Sen's System Design Channel](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
     - [yt] [Narendra L's Tech Dummies Channel](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+    - [yt] [CodeKarle's System Design & Architecture Preparation Series](https://www.youtube.com/watch?v=3loACSxowRU&list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
     - [book] Designing Data Intensive Applications - Martin Kleppmann
     - [ebook] System Design Interview Primer - Alex Xu
     - [online] [Geeks4Geeks](https://www.geeksforgeeks.org/what-is-system-design-learn-system-design/?ref=ghm)
@@ -40,14 +42,20 @@
     - [online] [high scalability](http://highscalability.com/)
     - [online] [Architecture of Open Source Applications](https://aosabook.org/en/)
     - [online][paid] [Grokking System Design](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
-    - [online][paid] [Grokking LLD System Design](https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles)
+    - [online] [paid] [Grokking LLD System Design](https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles)
+    - [online] [chart] [System Design Roadmap](https://roadmap.sh/system-design)
+    - [github] [Services Engineering](https://github.com/mmcgrana/services-engineering)
 
   - Software Architecture:
     - [online] [Geeks4Geeks](https://www.geeksforgeeks.org/introduction-to-pattern-designing/)
     - [online] [github - donnemartin System Design Primer](https://github.com/donnemartin/system-design-primer)
+    - [online] [github - Coding Interview University](https://github.com/jwasham/coding-interview-university)
     - [online] [source making](https://sourcemaking.com/)
     - [online] [refactoring guru](https://refactoring.guru/)
+    - [online] [github - Design Patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
     - [online] [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+    - [online] [chart] [Software Design](https://roadmap.sh/software-design-architecture)
+    - [online] [github - Backend Dev Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 
 ## Detailed Topics:
 
@@ -191,22 +199,3 @@
   - selling yourself better
 
   ***Note:*** This section doesn't need active studying. Being aware and YMMV should do just fine.
-
-### Open Action Items:
-
-  - Pick a language of choice for interviews:
-    - python
-    - ruby
-    - golang
-    - clojure
-    - typescript
-
-  - Order of preference:
-    python > golang > ruby > clojure
-
-  - Rationale:
-    - python -> longest use of language. still comfortable. not happy about newer version. environment handling.
-    - golang -> interesting language. minimal footprint. might need to learn some, but for problem solving seems neat.
-    - ruby -> simple, neat language. may need to look up points/in-build methods and neater tricks from time to time.
-    - clojure -> functional in nature. haven't written frequently in and lack of depth may divert attention from real intent.
-    - typescript -> javascript. say. no. more.

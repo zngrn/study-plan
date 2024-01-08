@@ -7,4 +7,9 @@ A collated, high-level information source to act as a guide to prepare for inter
   - Choice of programming language to tackle interview. *(highly opionated; terse points)*
   - Plan to ensure language fundamentals are sound.
 
-*Curated by:* [zngrn](https://github.com/zngrn), Dec 2023.
+## Content
+ - [study plan](./study-plans.md)
+ - [go language prep](./golang-considerations-and-learnings.md)
+ - [Language Choice](./language-choice.md)
+
+*Curated by:* [zngrn](https://github.com/zngrn), January 2024.
