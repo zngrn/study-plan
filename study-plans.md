@@ -30,6 +30,7 @@
     - [book] The Algorithm Design Manual - Steven Skienna
     - [online] [BaseCS Blog](https://medium.com/basecs)
     - [online] [github - Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
+    - [online] [Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
   - System Design:
     - [yt] [Gaurav Sen's System Design Channel](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
