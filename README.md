@@ -4,7 +4,7 @@ A collated, high-level information source to act as a guide to prepare for inter
   - Role specific, Backend Engineering/SWE.
   - Topics along with resources broken down to condensed sections.
   - List of reference links and learning resources.
-  - Choice of programming language to tackle interview. *(highly opionated; terse points)*
+  - Choice of programming language to tackle interview. *(highly opinionated; terse points)*
   - Plan to ensure language fundamentals are sound.
 
 ## Content
